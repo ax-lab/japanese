@@ -1,5 +1,6 @@
 theme: jekyll-theme-midnight
 
+markdown: kramdown
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -7,3 +8,5 @@ relative_links:
   collections: true
 include:
   - README.md
+kramdown:
+  hard_wrap: true

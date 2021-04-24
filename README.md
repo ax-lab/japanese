@@ -11,5 +11,5 @@ provide myself with:
 ## Organization
 
 - `grammar`: detailed grammar notes organized by subject
-- `index`: quick reference organized by word/stem
 - `notes`: notes for specific lessons from a source material
+- `summary`: quick reference organized by word/stem
