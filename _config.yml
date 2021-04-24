@@ -21,24 +21,70 @@
 title: Japanese
 description: >- # this means to ignore newlines until "baseurl:"
   Personal Japanese study notes
+tagline: Japanese notes
 baseurl: "/japanese" # the subpath of your site, e.g. /blog
 url: "https://ax-lab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Build settings
-remote_theme: cotes2020/jekyll-theme-chirpy
-plugins:
-  - jekyll-feed
-
 markdown: kramdown
 plugins:
+  - jekyll-default-layout
+  - jekyll-github-metadata
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
   - jekyll-relative-links
+  - jekyll-titles-from-headings
 relative_links:
   enabled: true
   collections: true
-include:
-  - README.md
 kramdown:
   hard_wrap: true
+
+optional_front_matter:
+  remove_originals: true
+
+theme: minima
+
+theme_mode: dark
+toc: true
+
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: tabs             # see `site.collections`
+    values:
+      layout: default
+      permalink: /:title/
+      dynamic_title: true    # Hide title in mobile screens.
+
+sass:
+  style: compressed
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  profile: false
+  blanklines: false
+  ignore:
+    envs: [development]
+
+exclude:
+  - '*.gem'
+  - '*.gemspec'
+  - tools
+  - docs
+  - README.md
+  - LICENSE
+  - gulpfile.js
+  - node_modules
+  - '*.json'
 
 # Exclude from processing.
 # The following items will not be processed, by default.
