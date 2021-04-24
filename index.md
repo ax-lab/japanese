@@ -14,4 +14,4 @@ provide myself with:
 - `notes`: notes for specific lessons from a source material
 - `summary`: quick reference organized by word/stem
 
-_version: 1_
+_version: 2_

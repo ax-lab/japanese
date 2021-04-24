@@ -25,7 +25,7 @@ baseurl: "/japanese" # the subpath of your site, e.g. /blog
 url: "https://ax-lab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: minima
+remote_theme: cotes2020/jekyll-theme-chirpy
 plugins:
   - jekyll-feed
 
