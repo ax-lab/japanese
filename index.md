@@ -13,3 +13,5 @@ provide myself with:
 - `grammar`: detailed grammar notes organized by subject
 - `notes`: notes for specific lessons from a source material
 - `summary`: quick reference organized by word/stem
+
+_version: 1_
