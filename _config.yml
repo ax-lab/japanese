@@ -29,7 +29,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-theme: jekyll-theme-midnight
+# theme: jekyll-theme-midnight
 
 markdown: kramdown
 plugins:
