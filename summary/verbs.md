@@ -17,7 +17,7 @@ See also: [transitivity](transitivity)
 Forms: 
 - 終止形（plain）
 - [未然形（ない）](stem-あ)
-- 連用形（conjunctive）
+- [連用形（conjunctive）](stem-masu)
 - 連体形（attributive）
 - 仮定形（hypothetical）
 - 命令形（imperative）

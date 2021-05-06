@@ -10,6 +10,9 @@ Uses:
 一段 verbs just drop the る
 五段 verbs move from the う-段 to あ-段
 
+する　→　しない
+来る　→　こない
+
 話す　→　話さ
 聞く　→　聞か
 泳ぐ　→　泳が
@@ -19,3 +22,4 @@ Uses:
 買う　→　買わ
 寝る　→　寝ら
 死ぬ　→　死な
+
