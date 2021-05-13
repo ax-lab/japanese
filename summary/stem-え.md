@@ -2,6 +2,7 @@
 
 Uses:
 - [Potential](・える)
+- [ば conditionals](・ば)
 
 ## Grammar
 
