@@ -19,7 +19,7 @@ Quick reference indexed by word/stem/suffix.
 		- Possessive: [の](の)
 		- [で](で)
 	- Adjectives: [く](・く) + [て](・て)
-	- Verbs: [て-form](・て)、[～たりする](・たりする.md)
+	- Verbs: [て-form](・て)、[～たりする](・たりする)
 	- Sentences
 		- Reason or causation: [から](から)、[ので](ので)
 		- Despite: [のに](のに)
@@ -32,6 +32,8 @@ Quick reference indexed by word/stem/suffix.
 	- [Explanatory の](の)
 	- [Politeness](politeness)
 	- [Question Words](question-words)
+	- [Saying "Must not"](must-not) and ["Must do"](must-do)
+	- [Saying "ok" to do or not do](ok-to-do.md)
 - Sentence ending:
 	- [よ](よ)、[ね](ね)
 
