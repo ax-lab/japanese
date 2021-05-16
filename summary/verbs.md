@@ -19,10 +19,12 @@ Summary:
 	- Connective / casual command
 - [た](・た):
 	- Completed action (e.g. past)
-- [あ](stem-あ.md)・[ない](ない)
+- [あ](stem-あ)・[ない](ない)
 	- Negative
-- え・[る／られる](・える)
+- [え](stem-え)・[る／られる](・える)
 	- can do / able to do  (potential)
+- [お](stem-お)・[よう](・よう.md)
+	- let's / shall we (volitional)
 
 Forms: 
 - 終止形（plain）
@@ -38,6 +40,7 @@ Forms:
 	- 食べた　　　→　ate
 	- 食べない　　→　not eat
 	- 食べられる　→　can eat / able to eat
+	- 食べよう　　→　let's eat
 
 - ある
 	- ない　　　→　don't exist
@@ -46,45 +49,56 @@ Forms:
 	- した　　　→　did
 	- しない　　→　not do
 	- 出来る　　→　can do / able to do
+	- しよう　　→　let's do it
 - 来る
 	- きた　　　→　came
 	- こない　　→　not come
 	- こられる　→　can come / able to come
+	- こよう　　→　let's come
 
 - 話す：
 	- 話した　　→　spoke
 	- 話さない　→　not speak
 	- 話せる　　→　can speak / able to speak
+	- 話そう　　→　let's speak
 - 買う：
 	- 買った　　→　bought
 	- 買わない　→　not buy
 	- 買える　　→　can buy / able to buy
+	- 買おう　　→　let's buy
 - 待つ：
 	- 待った　　→　waited
 	- 待たない　→　not wait
 	- 待てる　　→　can wait / able to wait
+	- 待とう　　→　let's wait
 - 寝る：
 	- 寝った　　→　slept
 	- 寝らない　→　not sleep
 	- 寝れる　　→　can sleep / able to sleep
+	- 寝ろう　　→　let's sleep
 - 聞く：
 	- 聞いて　　→　heard
 	- 聞かない　→　not hear
 	- 聞ける　　→　can hear / able to hear
+	- 聞こう　　→　let's hear
 - 泳ぐ：
 	- 泳いで　　→　swam
 	- 泳がない　→　not swim
 	- 泳げる　　→　can swim / able to swim
+	- 泳ごう　　→　let's swim
 - 死ぬ：
 	- 死んだ　　→　died
 	- 死なない　→　not die
 	- 死ねる　　→　can die / able to die
+	- 死のう　　→　let's die
 - 遊ぶ：
 	- 遊んだ　　→　played
 	- 遊ばない　→　not play
 	- 遊べる　　→　can play / able to play
+	- 遊ぼう　　→　let's play
 - 飲む：
 	- 飲んだ　　→　drank
 	- 飲まない　→　not drink
 	- 飲める　　→　can drink / able to drink
+	- 飲もう　　→　let's drink
 

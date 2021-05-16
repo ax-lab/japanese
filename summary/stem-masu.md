@@ -1,6 +1,6 @@
 # Conjunctive・Continuative form（連用形）
 
-Also known as "masu-stem".
+Also known as "masu-stem" or just the verb stem.
 
 ## Grammar
 
@@ -12,7 +12,8 @@ Also known as "masu-stem".
 
 ## Uses
 
-Adding [ます](・ます) to transform the verb into the polite form.
+- Using [ます](・ます) to transform the verb into the polite form.
+- Using [たい](・たい) to express desire.
 
 ### Verb to noun
 

@@ -34,6 +34,11 @@ Quick reference indexed by word/stem/suffix.
 	- [Question Words](question-words)
 	- [Saying "Must not"](must-not) and ["Must do"](must-do)
 	- [Saying "ok" to do or not do](ok-to-do.md)
+	- Desire and suggestion:
+		- [たい](・たい) form
+		- [ほしい](ほしい)
+		- [よう (volitional)](・よう)
+		- [ば](・ば)、[たら](・たら) conditional suggestions with [どう](どう)
 - Sentence ending:
 	- [よ](よ)、[ね](ね)
 

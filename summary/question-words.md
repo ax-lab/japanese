@@ -1,6 +1,7 @@
 # Question words
 
-何で（なんで）　why? what for?
+- 何で（なんで）　why? what for?
+- [どう](どう)　　　　　　how? in what way? how about?
 
 ＋か　　＝　some
 ＋も　　＝　(any and) all / none in negative
