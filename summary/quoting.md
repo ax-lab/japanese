@@ -1,5 +1,7 @@
 # Quoting（と、って）
 
+See also: [という](・という)、[だって](だって)
+
 The objective is to encapsulate a relative clause into an "object" into which an action can be performed.
 
 Uses [と](と) and [って](・って) as a casual replacement.
