@@ -40,6 +40,8 @@ Quick reference indexed by word/stem/suffix.
 		- [ほしい](ほしい)
 		- [よう (volitional)](・よう) - also to attempt to do something
 		- [ば](・ば)、[たら](・たら) conditional suggestions with [どう](どう)
+	- [Giving and Receiving](give-receive)
+	- [Asking favors](favors)
 - Sentence ending:
 	- [よ](よ)、[ね](ね)
 
