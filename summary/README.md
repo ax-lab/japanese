@@ -35,16 +35,20 @@ Quick reference indexed by word/stem/suffix.
 	- [Saying "Must not"](must-not) and ["Must do"](must-do)
 	- [Saying "ok" to do or not do](ok-to-do)
 	- [Quoting（と、って）](quoting)
+	- [Slang principles](slang)
 	- Desire and suggestion:
 		- [たい](・たい) form
 		- [ほしい](ほしい)
 		- [よう (volitional)](・よう) - also to attempt to do something
 		- [ば](・ば)、[たら](・たら) conditional suggestions with [どう](どう)
-	- [Giving and Receiving](give-receive)
-	- [Asking favors](favors)
-	- [Making requests](requests)
+	- Requests and the like:
+		- [Giving and Receiving](give-receive)
+		- [Asking favors](favors)
+		- [Making requests](requests)
 - Sentence ending:
-	- [よ](よ)、[ね](ね)
+	- [よ](よ)、[ね](ね)、[さ](さ)、[な](な)、[わ](わ)、[ぞ](ぞ)、[ぜ](ぜ)
+	- [かい](かい)、[だい](だい)
+	- [かな](かな)、[かしら](かしら)
 
 ---
 
