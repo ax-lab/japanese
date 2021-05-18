@@ -38,7 +38,7 @@ Quick reference indexed by word/stem/suffix.
 	- Desire and suggestion:
 		- [たい](・たい) form
 		- [ほしい](ほしい)
-		- [よう (volitional)](・よう)
+		- [よう (volitional)](・よう) - also to attempt to do something
 		- [ば](・ば)、[たら](・たら) conditional suggestions with [どう](どう)
 - Sentence ending:
 	- [よ](よ)、[ね](ね)

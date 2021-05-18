@@ -6,6 +6,10 @@ The objective is to encapsulate a relative clause into an "object" into which an
 
 Uses [と](と) and [って](・って) as a casual replacement.
 
+## Idioms
+
+- [volitional よう](・よう)  ＋ とする：to attempt to do something
+
 ## Direct quote
 
 Encloses any statement in 「」 and add と. Often used for dialogues in novels and such.
