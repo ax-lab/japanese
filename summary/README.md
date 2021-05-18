@@ -42,6 +42,7 @@ Quick reference indexed by word/stem/suffix.
 		- [ば](・ば)、[たら](・たら) conditional suggestions with [どう](どう)
 	- [Giving and Receiving](give-receive)
 	- [Asking favors](favors)
+	- [Making requests](requests)
 - Sentence ending:
 	- [よ](よ)、[ね](ね)
 

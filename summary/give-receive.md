@@ -35,9 +35,9 @@ The verb やる meaning "to do" can be used in place of あげる for pets/anima
 
 # くれる（呉れる）
 
-To give something downwards. From the receiver point of view. Note 下さる（くださる） which is the honorific version.
-
 Can be used to ask for [favors](favors).
+
+To give something downwards. From the receiver point of view. Note 下さる（くださる） which is the honorific version.
 
 > 友達が私にプレゼントをくれた。
 > Friend gave present to me.
@@ -95,3 +95,8 @@ First person:
 
 > その時計は私からもらったのよ。
 > (He) received that watch from me.
+
+## Related
+- [Give/Receive](give-receive)
+- [Asking favors](favors)
+- [Making requests](requests)

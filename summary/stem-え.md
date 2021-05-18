@@ -4,6 +4,8 @@ Uses:
 - [Potential](・える)
 - [ば conditionals](・ば)
 
+See also the [command form](requests).
+
 ## Grammar
 
 一段 verbs just drop the る

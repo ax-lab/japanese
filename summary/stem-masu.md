@@ -14,6 +14,7 @@ Also known as "masu-stem" or just the verb stem.
 
 - Using [ます](・ます) to transform the verb into the polite form.
 - Using [たい](・たい) to express desire.
+- Using [なさい](・なさい) to issue firm but polite commands.
 
 ### Verb to noun
 
