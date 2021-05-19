@@ -21,10 +21,18 @@ Summary:
 	- Completed action (e.g. past)
 - [あ](stem-あ)・[ない](ない)
 	- Negative
+- [あ](stem-あ)・[せる・させる](verb-causative) (also す・さす)
+	- let / make it happen (causative)
+- [あ](stem-あ)・[れる・られる](verb-passive)
+	- Receptive form (a.k.a. passive)
 - [え](stem-え)・[る／られる](・える)
 	- can do / able to do  (potential)
+- [え](stem-え)・[ば](・ば)
+	- conditional
 - [お](stem-お)・[よう](・よう.md)
 	- let's / shall we (volitional)
+- [ろ・え](requests)
+	- command form (imperative)
 
 Forms: 
 - 終止形（plain）

@@ -24,3 +24,4 @@ Rarely used in general as Japanese are too polite to use imperatives. But it is 
 - [Give/Receive](give-receive)
 - [Asking favors](favors)
 - [Making requests](requests)
+- [Permission (ok to do not do)](ok-to-do)

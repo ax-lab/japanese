@@ -42,4 +42,5 @@ Just use the same grammar attaching で to the verb negative:
 - [Give/Receive](give-receive)
 - [Asking favors](favors)
 - [Making requests](requests)
+- [Permission (ok to do not do)](ok-to-do)
 

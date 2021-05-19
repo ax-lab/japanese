@@ -3,7 +3,9 @@
 未然形（みぜんけい） 
 
 Uses:
-- [negative](ない).
+- [negative](ない)
+- [causative](verb-causative)
+- [passive](verb-passive)
 
 ## Grammar
 

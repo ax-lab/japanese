@@ -22,3 +22,8 @@ Note that in casual speech 「～てもいい」 gets shortened to 「～てい�
 > これ、ちょっと見ていい？
 > Can I take a quick look at this?
 
+## Related
+- [Give/Receive](give-receive)
+- [Asking favors](favors)
+- [Making requests](requests)
+- [Permission (ok to do not do)](ok-to-do)

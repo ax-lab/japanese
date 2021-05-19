@@ -100,3 +100,4 @@ First person:
 - [Give/Receive](give-receive)
 - [Asking favors](favors)
 - [Making requests](requests)
+- [Permission (ok to do not do)](ok-to-do)
