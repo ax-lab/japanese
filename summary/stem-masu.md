@@ -10,11 +10,14 @@ Also known as "masu-stem" or just the verb stem.
 する　→　し
 来る　→　き
 
+Note the exceptions on [honorific](politeness-forms) conjugations.
+
 ## Uses
 
 - Using [ます](・ます) to transform the verb into the polite form.
 - Using [たい](・たい) to express desire.
 - Using [なさい](・なさい) to issue firm but polite commands.
+- Honorific and humble [conjugations](politeness-conjugation).
 
 ### Verb to noun
 
