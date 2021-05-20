@@ -36,6 +36,7 @@ Quick reference indexed by word/stem/suffix.
 	- [Saying "ok" to do or not do](ok-to-do)
 	- [Quoting（と、って）](quoting)
 	- [Slang principles](slang)
+	- [Levels of certainty](certainty)
 	- Desire and suggestion:
 		- [たい](・たい) form
 		- [ほしい](ほしい)
