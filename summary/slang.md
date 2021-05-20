@@ -14,6 +14,7 @@ Primary goal: making things easier to say.
 - ってば・ったら for exasperation
 - なんか just about everywhere (filler word such as "like")
 - [stem](stem-masu) + ～やがる for hatred or contempt (very strong language).
+- [ところ（だ）](ところ)　→　とこ
 
 ## Examples
 
