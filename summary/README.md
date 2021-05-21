@@ -25,8 +25,7 @@ Quick reference indexed by word/stem/suffix.
 		- Despite: [のに](のに)
 		- Contradiction: [が](が)、[けど](けど)
 		- Listing reasons: [し (vague)](し)、[て (and)](・て)
-- Conditionals:
-	- [と](と)、[なら](なら)、[ば](・ば)、[たら](・たら)
+- [Conditionals](conditionals)
 - Topics:
 	- [ない](ない)
 	- [Explanatory の](の)
@@ -37,6 +36,7 @@ Quick reference indexed by word/stem/suffix.
 	- [Quoting（と、って）](quoting)
 	- [Slang principles](slang)
 	- [Levels of certainty](certainty)
+	- [Amounts](amounts)
 	- Desire and suggestion:
 		- [たい](・たい) form
 		- [ほしい](ほしい)
