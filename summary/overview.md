@@ -20,3 +20,6 @@
 - Easy/hard to do:
 	- [～やすい](・やすい)：easy action
 	- [～にくい](・にくい)：hard action
+- Hypothesis and conclusions:
+	- [わけ](わけ)
+	- [とする](とする)
