@@ -11,3 +11,6 @@
 	- [っぽい](・っぽい) (slang)
 - Guessing an outcome: [～そう](・そう)
 - Hearsay: [～そうだ](・そうだ)、[～らしい](・らしい)
+- Easy/hard to do:
+	- [～やすい](・やすい)：easy action
+	- [～にくい](・にくい)：hard action
