@@ -26,6 +26,7 @@ Quick reference indexed by word/stem/suffix.
 		- Contradiction: [が](が)、[けど](けど)
 		- Listing reasons: [し (vague)](し)、[て (and)](・て)
 - [Conditionals](conditionals)
+- [Comparisons](comparisons)
 - Topics:
 	- [ない](ない)
 	- [Explanatory の](の)
