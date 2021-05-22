@@ -1,5 +1,11 @@
 # Grammar Overview
 
+- Negatives: 
+	- [ない](ない)
+		- [～ん](・ん)、[～ぬ](・ぬ)
+	- Doing something without doing something else
+		- [ない ＋ で](・ください) + final action
+		- [ず](・ず)
 - Unintended actions／finish completely：[しまう](・しまう)
 - Generic nouns:
 	- [こと](こと)

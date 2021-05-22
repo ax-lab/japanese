@@ -1,5 +1,7 @@
 # Giving and Receiving
 
+See also: [ください](・ください)
+
 # あげる（上げる）
 
 To give something upwards. From the speaker point of view to someone else. The giver is humbly below the receiver.

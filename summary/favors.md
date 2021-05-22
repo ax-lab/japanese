@@ -1,5 +1,7 @@
 # Asking favors
 
+See also: [ください](・ください)
+
 Using くれる and もらえる（potential form of 貰う）with [て-form](・て)：
 
 > 千円を貸してくれる？
@@ -37,6 +39,7 @@ Just use the same grammar attaching で to the verb negative:
 > 
 > 高い物を買わないでくれる？
 > Can you not buy expensive thing(s)?
+
 
 ## Related
 - [Give/Receive](give-receive)
