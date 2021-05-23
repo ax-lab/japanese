@@ -35,3 +35,6 @@
 	- [べき](べき)：actions one should do
 	- [べく](べく)：what one tries to do (rare)
 	- [べからず](べからず)：things one must not do
+- Minimum requirement: [さえ](・さえ)
+	- Older version: [すら](・すら)
+- Not even worth considering: [おろか](おろか)
