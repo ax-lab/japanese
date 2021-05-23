@@ -23,3 +23,10 @@
 - Hypothesis and conclusions:
 	- [わけ](わけ)
 	- [とする](とする)
+- Time specific actions:
+	- [～ばかり](・ばかり)：just completed
+	- [とたん](とたん)：immediately after ("just as")
+	- [ながら](ながら)：two concurrent actions
+	- [まくる](まくる)：repeat with reckless abandon
+	- [まま](まま)：lack of change
+	- [っぱなし](っぱなし)：leave something the way it is
