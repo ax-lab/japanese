@@ -18,6 +18,7 @@ Note the exceptions on [honorific](politeness-forms) conjugations.
 - Using [たい](・たい) to express desire.
 - Using [なさい](・なさい) to issue firm but polite commands.
 - Honorific and humble [conjugations](politeness-conjugation).
+- Sequential compound sentences instead of the て-form in formal speech (e.g. news)
 
 ### Verb to noun
 

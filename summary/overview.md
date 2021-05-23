@@ -30,3 +30,8 @@
 	- [まくる](まくる)：repeat with reckless abandon
 	- [まま](まま)：lack of change
 	- [っぱなし](っぱなし)：leave something the way it is
+- Things that should be a certain way:
+	- [はず](はず)：something that was or is supposed to be
+	- [べき](べき)：actions one should do
+	- [べく](べく)：what one tries to do (rare)
+	- [べからず](べからず)：things one must not do
