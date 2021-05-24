@@ -35,6 +35,11 @@
 	- [べき](べき)：actions one should do
 	- [べく](べく)：what one tries to do (rare)
 	- [べからず](べからず)：things one must not do
-- Minimum requirement: [さえ](・さえ)
-	- Older version: [すら](・すら)
-- Not even worth considering: [おろか](おろか)
+- Expectations:
+	- Minimum requirement: [さえ](・さえ)
+		- Older version: [すら](・すら)
+	- Not even worth considering: [おろか](おろか)
+- Signs of something:
+	- Outward emotions signs: [～がる](・がる)
+	- Act as if one might do something: [～ばかり](・ばかり)
+	- Indicate an atmosphere of a state: [めく](めく)
