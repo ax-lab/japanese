@@ -10,6 +10,8 @@ Two kinds of sentence:
 - A does B
 	- サクラが歩く
 
+Particles define the sentence structure. Note that logical particles target only nouns.
+
 ## 「が」Subject　（doer）
 
 This is the core of the Japanese sentence! The main carriage of the sentence.

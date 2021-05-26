@@ -40,6 +40,7 @@ Moving the verb in its kana column creates a "sticky" stem:
 	- ～たい　　　（want）
 	- ～そう　　　（look like）
 	- もの、かた　（noun）
+	- ～　　　　　（noun-like）
 - あ：
 	- ～ない　　　（negative）
 	- ～れる　　　（receptive／る→られる）

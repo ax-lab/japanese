@@ -27,7 +27,7 @@
 
 ## Stem and conjugations
 
-For the adjective stem replace 「い」 with 「く」
+For the adjective stem replace 「い」 with 「く」（becomes a noun）
 - 赤い　　　→　赤く　　　　　（opposite of て-form）
 - かわいい　→　かわいく
 - いい　　　→　よく
