@@ -29,6 +29,9 @@ This is the core of the Japanese sentence! The main carriage of the sentence.
 - Flags a topic (i.e. "as for X")
 - Pronounced 「わ」
 - Not part of the logical sentence (it does not change the sentence meaning)
+- Also a topic flag: 「も」
+	- Changes the topic of the sentence with an "also" meaning
+	- There must be a topic already
 
 > 私は〇がウナギだ（〇：”it”）
 
