@@ -2,12 +2,23 @@
 
 ## Adverbs
 
-Modify the action (the verb).
+Modify the action (the verb). 
 
 Three kinds:
 - 早く：an い-adjective stem becomes an adverb
 - 急に：any noun ＋に becomes an adverb
 - ゆっくり：standalone adverb that does not need anything
+
+Note that adverbials can also modify the adjective:
+- こんなに美味しい料理　"such delicious cooking"
+	- Not "delicious cooking like this"
+- こんなにたくさんの人　"so many people"
+	- Not "this kind of a large number of people"
+	- たくさんの is working adjectivally to modify 人
+	- こんなに is modifying たくさんの
+- Finally
+	- こんな優しいかれ：　a sweet boyfriend like this
+	- こんなに優しいかれ：such a sweet boyfriend
 
 ## Story
 

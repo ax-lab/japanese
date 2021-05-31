@@ -19,6 +19,22 @@ Logical particles "interrogate" the nouns of the sentence to determine how they 
 - へ：which direction?
 - で：where／with what／how was it done
 
+## Human interaction
+
+Sliding scale of non-mutuality to mutuality:
+- を：object (non-mutual)
+	- doing something "to" someone (e.g tickle, kill)
+- に：target (destination)
+	- 誰かに話す：talking to someone (destination)
+	- あなたに会いたかった："I want to meet you" as in "see you"
+- と：joining (mutual action)
+	- 誰かと話す：talking with someone (conversation)
+	- あなたと会いたかった："I want us to be together"
+
+Causative: either を or に
+- The main actor is in control of the action, so there is no mutual action
+
 ---
 
 [Lesson 08b](https://youtu.be/dwcTI9qvO-U?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)
+[Lesson: human interaction](https://youtu.be/gVqs4TzqySw)

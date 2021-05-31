@@ -53,3 +53,7 @@ Note in the example above that 従う is marked as intransitive in the Japanese 
 
 - Dictionaries always mark "self-move" as intransitive
 - Obey is a transitive self-move verb (self obeys something)
+
+---
+
+[Lesson 15](https://youtu.be/ELk1dqaEmyk?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)
