@@ -52,6 +52,7 @@ Quick reference indexed by word/stem/suffix.
 	- [よ](よ)、[ね](ね)、[さ](さ)、[な](な)、[わ](わ)、[ぞ](ぞ)、[ぜ](ぜ)
 	- [かい](かい)、[だい](だい)
 	- [かな](かな)、[かしら](かしら)
+- [Stem system](stem)
 
 ---
 
